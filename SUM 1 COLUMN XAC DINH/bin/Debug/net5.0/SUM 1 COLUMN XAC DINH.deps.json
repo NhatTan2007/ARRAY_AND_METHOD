@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SUM 1 COLUMN XAC DINH/1.0.0": {
+        "runtime": {
+          "SUM 1 COLUMN XAC DINH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SUM 1 COLUMN XAC DINH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

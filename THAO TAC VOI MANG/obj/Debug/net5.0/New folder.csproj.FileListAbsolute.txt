@@ -1,0 +1,32 @@
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\bin\Debug\net5.0\New folder.exe
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\bin\Debug\net5.0\New folder.deps.json
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\bin\Debug\net5.0\New folder.runtimeconfig.json
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\bin\Debug\net5.0\New folder.runtimeconfig.dev.json
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\bin\Debug\net5.0\New folder.dll
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\bin\Debug\net5.0\ref\New folder.dll
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\bin\Debug\net5.0\New folder.pdb
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\obj\Debug\net5.0\New folder.csprojAssemblyReference.cache
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\obj\Debug\net5.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\obj\Debug\net5.0\New folder.AssemblyInfoInputs.cache
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\obj\Debug\net5.0\New folder.AssemblyInfo.cs
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\obj\Debug\net5.0\New folder.csproj.CoreCompileInputs.cache
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\obj\Debug\net5.0\New folder.dll
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\obj\Debug\net5.0\ref\New folder.dll
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\obj\Debug\net5.0\New folder.pdb
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\New folder\obj\Debug\net5.0\New folder.genruntimeconfig.cache
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\bin\Debug\net5.0\New folder.exe
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\bin\Debug\net5.0\New folder.deps.json
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\bin\Debug\net5.0\New folder.runtimeconfig.json
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\bin\Debug\net5.0\New folder.runtimeconfig.dev.json
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\bin\Debug\net5.0\New folder.dll
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\bin\Debug\net5.0\ref\New folder.dll
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\bin\Debug\net5.0\New folder.pdb
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\obj\Debug\net5.0\New folder.csprojAssemblyReference.cache
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\obj\Debug\net5.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\obj\Debug\net5.0\New folder.AssemblyInfoInputs.cache
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\obj\Debug\net5.0\New folder.AssemblyInfo.cs
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\obj\Debug\net5.0\New folder.csproj.CoreCompileInputs.cache
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\obj\Debug\net5.0\New folder.dll
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\obj\Debug\net5.0\ref\New folder.dll
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\obj\Debug\net5.0\New folder.pdb
+D:\LEARNING\MODULE 2\2. ARRAY AND METHOD\EXERCISE\THAO TAC VOI MANG\obj\Debug\net5.0\New folder.genruntimeconfig.cache

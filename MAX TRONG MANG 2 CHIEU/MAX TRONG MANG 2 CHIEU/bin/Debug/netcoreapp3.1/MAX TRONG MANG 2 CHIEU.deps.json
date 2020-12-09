@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MAX TRONG MANG 2 CHIEU/1.0.0": {
+        "runtime": {
+          "MAX TRONG MANG 2 CHIEU.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MAX TRONG MANG 2 CHIEU/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

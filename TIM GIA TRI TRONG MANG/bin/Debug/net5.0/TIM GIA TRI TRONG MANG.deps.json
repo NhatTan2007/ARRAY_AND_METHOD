@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TIM GIA TRI TRONG MANG/1.0.0": {
+        "runtime": {
+          "TIM GIA TRI TRONG MANG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TIM GIA TRI TRONG MANG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

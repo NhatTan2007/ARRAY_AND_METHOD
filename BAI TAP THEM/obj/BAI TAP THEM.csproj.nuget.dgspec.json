@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\LEARNING\\MODULE 2\\2. ARRAY AND METHOD\\EXERCISE\\BAI TAP THEM\\BAI TAP THEM.csproj": {}
+  },
+  "projects": {
+    "D:\\LEARNING\\MODULE 2\\2. ARRAY AND METHOD\\EXERCISE\\BAI TAP THEM\\BAI TAP THEM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LEARNING\\MODULE 2\\2. ARRAY AND METHOD\\EXERCISE\\BAI TAP THEM\\BAI TAP THEM.csproj",
+        "projectName": "BAI TAP THEM",
+        "projectPath": "D:\\LEARNING\\MODULE 2\\2. ARRAY AND METHOD\\EXERCISE\\BAI TAP THEM\\BAI TAP THEM.csproj",
+        "packagesPath": "C:\\Users\\nhatt\\.nuget\\packages\\",
+        "outputPath": "D:\\LEARNING\\MODULE 2\\2. ARRAY AND METHOD\\EXERCISE\\BAI TAP THEM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nhatt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

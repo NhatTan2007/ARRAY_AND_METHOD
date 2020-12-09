@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TIM MIN TRONG ARRAY/1.0.0": {
+        "runtime": {
+          "TIM MIN TRONG ARRAY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TIM MIN TRONG ARRAY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
